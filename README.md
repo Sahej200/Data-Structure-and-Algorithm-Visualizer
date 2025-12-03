@@ -10,17 +10,17 @@ This tool provides step-by-step visualization for operations such as insertion, 
 ### 🏞 Main Menu
 ![Main Menu](images/image1.jpg)
 
-### 📦 Stack Visualization
+### 📦 Data Structure
 ![Stack](images/image2.jpg)
 
-### 📚 Queue Visualization
+### 📚 Stack Visualization
 ![Queue](images/image3.jpg)
 
 ### 🌳 Binary Search Tree
 ![BST](images/image4.jpg)
 
 ### 🗺 Graph Algorithms
-![Graph Algorithms](images/image.jpg)
+![Graph Algorithms](images/image5.jpg)
 
 
 
@@ -72,8 +72,6 @@ src/
 3. Open:
 src/MenuScreens/Menu.java
 
-mathematica
-Copy code
 4. Click Run ▶
 
 ### Using Command Line (Windows)
