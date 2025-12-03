@@ -8,27 +8,25 @@ This tool provides step-by-step visualization for operations such as insertion, 
 ## 📸 Project Preview
 
 ### 🏞 Main Menu
-![Main Menu](dsa 1.jpg)
+![Main Menu](images/image1.jpg)
 
-### **📦 Stack Visualization**
-![Stack](images/stack.png)
+### 📦 Stack Visualization
+![Stack](images/image2.jpg)
 
-### **📚 Queue Visualization**
-![Queue](images/queue.png)
+### 📚 Queue Visualization
+![Queue](images/image3.jpg)
 
-### **🌳 Binary Search Tree**
-![BST](images/bst.png)
+### 🌳 Binary Search Tree
+![BST](images/image4.jpg)
 
-### **🗺 Graph Algorithms**
-![Graph Algorithms](images/graph.png)
+### 🗺 Graph Algorithms
+![Graph Algorithms](images/image.jpg)
 
-> 🔧 Replace the image paths above (`images/xxx.png`) with your actual uploaded images.
 
----
 
 ## 🚀 Features
 
-### **Data Structures**
+### Data Structures
 - Stack (Push/Pop Animation)
 - Queue (Enqueue/Dequeue Animation)
 - Array Operations
@@ -36,7 +34,7 @@ This tool provides step-by-step visualization for operations such as insertion, 
 - Binary Search Tree (Insert/Delete/Search)
 - Heap (Min/Max Heap Operations)
 
-### **Algorithms**
+### Algorithms
 - Linear Search  
 - Binary Search  
 - Depth First Search (DFS)  
@@ -47,9 +45,9 @@ This tool provides step-by-step visualization for operations such as insertion, 
 
 ## 🛠 Tech Stack
 
-- **Java 17+**  
-- **Swing / AWT** (For UI)  
-- **Object-Oriented Design**  
+- Java 17+  
+- Swing / AWT** (For UI)  
+- Object-Oriented Design
 - Custom rendering using Java Graphics  
 
 ---
@@ -64,26 +62,21 @@ src/
 ├─ Queue/ → Queue animations
 ├─ BinarySearchTree/ → BST visualizer
 ├─ GraphAlgorithms/ → DFS/BFS/Dijkstra
-└─ ...
 
-yaml
-Copy code
-
----
 
 ## ▶ How to Run
 
-### **Using VS Code**
-1. Install **Extension Pack for Java**
+### Using VS Code
+1. Install Extension Pack for Java
 2. Open project folder in VS Code
 3. Open:
 src/MenuScreens/Menu.java
 
 mathematica
 Copy code
-4. Click **Run ▶**
+4. Click Run ▶
 
-### **Using Command Line (Windows)**
+### Using Command Line (Windows)
 ```powershell
 # Compile
 mkdir -Force out\classes
@@ -102,4 +95,3 @@ Works on Windows, macOS, Linux
 Sahej Prakash
 Java Developer | DSA Enthusiast
 
-"# Data-Structure-and-Algorithm-Visualizer" 
