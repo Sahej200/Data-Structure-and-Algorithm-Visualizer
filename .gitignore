@@ -1,0 +1,85 @@
+# ============================
+#   Java & Build Artifacts
+# ============================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# JAR/WAR/EAR files (optional — remove if you want to commit your final jar)
+*.jar
+*.war
+*.ear
+
+# Build/output folders
+out/
+bin/
+build/
+target/
+
+# ============================
+#   Temporary Source Lists
+# ============================
+
+sources.txt
+*.lst
+*.tmp
+*.temp
+
+# ============================
+#   VS Code
+# ============================
+
+.vscode/
+.history/
+
+# VS Code Java language server cache
+workspaceStorage/
+.java/
+
+# ============================
+#   OS / System Files
+# ============================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux temp
+*~
+
+# ============================
+#   IntelliJ / Eclipse (if ever used)
+# ============================
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+.buildpath
+
+# ============================
+#   Backup / Archives
+# ============================
+
+*.zip
+*.tar
+*.tar.gz
+*.rar
